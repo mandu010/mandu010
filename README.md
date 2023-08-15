@@ -11,7 +11,7 @@
 
 - 👨‍💻 Checkout my Automated Algorithmic Derivatives Trading Project at [**Github**](https://github.com/mandu010/AutomatedTradingAlgoProject)
 
-- 📝 Checkout my [Resume](https://github.com/mandu010/mandu010/blob/main/Saurabh_Mandlik_Resume.pdf)
+- 📝 Checkout my [**Resume**](https://github.com/mandu010/mandu010/blob/main/Saurabh_Mandlik_Resume.pdf)
 
 - 💬 Ask me about **Automation, Gaming, Fitness and Trading**
 
