@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhb2330" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhb2330?logo=twitter&style=for-the-badge" alt="saurabhb2330" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps tools**
+- 🌱 I’m currently learning **GoLang & DevOps tools**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
