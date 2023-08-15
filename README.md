@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mandu010](https://github.com/mandu010)
+- 👨‍💻 All of my projects are available at [https://github.com/mandu010/mandu010/blob/main/Saurabh_Mandlik_Resume.pdf](**Resume**)
 
 - 💬 Ask me about **Automation, Gaming, Fitness and Trading**
 
