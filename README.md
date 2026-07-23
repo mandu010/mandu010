@@ -5,21 +5,26 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhb2330" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhb2330?logo=twitter&style=for-the-badge" alt="saurabhb2330" /></a> </p>
 
-- 🔧 Currently a **Software Engineer 3 @ Walmart Global Tech**, architecting a multi-cloud storage KPI & metadata platform spanning **850 PB across Azure and GCP**
+8 years automating enterprise infrastructure across Azure and GCP. Currently governing an **850 PB** multi-cloud storage estate at Walmart Global Tech, with **$12M+** in realized FinOps savings delivered in H1 FY27.
 
-- 🐍 Deep in **Python automation, distributed data pipelines, and observability-driven reliability** (Prometheus, Grafana, OpenTelemetry)
+### Currently @ Walmart Global Tech
 
-- 🌱 Currently sharpening **system design & distributed systems fundamentals**
+- Architecting a multi-cloud storage KPI & metadata platform spanning **850 PB** (150 PB Azure / 700 PB GCP) across 13K Azure storage accounts and 300K+ GCP buckets
+- Contributed to a production-grade MCP server (FastMCP, FastAPI) exposing tooling for Azure Storage and BigQuery — **own the BigQuery tooling**: query execution and dataset retrieval, with async I/O, retry, and OpenTelemetry tracing
+- Deep in Python automation, distributed data pipelines, and observability-driven reliability (Prometheus, Grafana, OpenTelemetry)
 
-- 👯 Looking to collaborate on **Python automation, cloud platform engineering, and observability tooling**
+### Featured Project — Automated Algorithmic Trading System
 
-- 👨‍💻 Checkout my Automated Algorithmic Trading System at [**Github**](https://github.com/mandu010/AutomatedTradingAlgoProject) — a fully autonomous, event-driven intraday trend-following platform for NIFTY/BANKNIFTY
+`Python` · `asyncio` · `PostgreSQL` · `WebSockets` — [**View on GitHub**](https://github.com/mandu010/AutomatedTradingAlgoProject)
 
-- 📝 Checkout my [**Resume**](https://github.com/mandu010/mandu010/blob/main/Saurabh_Mandlik_Resume.pdf)
+- Fully autonomous multi-instrument trading platform: **4 independent live trading instances** running off a shared codebase, unattended for **16+ months** (bug fixes only)
+- Async event-driven framework — real-time WebSocket streaming and non-blocking PostgreSQL connection pooling across 40+ modules to parallelize market data fetches
+- ATR-driven 3-tier trailing stop-loss state machine with automated position-sizing guardrails
 
-- 💬 Ask me about **Cloud Platform Engineering, Automation, Trading Systems and Fitness**
+### Resume & Contact
 
-- 📫 How to reach me **mandliks1996@gmail.com**
+- 📝 [**Resume**](https://github.com/mandu010/mandu010/blob/main/Saurabh_Mandlik_Resume.pdf)
+- 📫 mandliks1996@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
