@@ -15,7 +15,9 @@
 
 ### Featured Project — Automated Algorithmic Trading System
 
-`Python` · `asyncio` · `PostgreSQL` · `WebSockets` — [**View on GitHub**](https://github.com/mandu010/AutomatedTradingAlgoProject-Overview)
+`Python` · `asyncio` · `PostgreSQL` · `WebSockets` — [**View Architecture Overview**](https://github.com/mandu010/AutomatedTradingAlgoProject-Overview)
+
+*The linked repo documents the system's architecture and design decisions; the live trading codebase is private.*
 
 - Fully autonomous multi-instrument trading platform: **4 independent live trading instances** running off a shared codebase, unattended for **16+ months** (bug fixes only)
 - Async event-driven framework — real-time WebSocket streaming and non-blocking PostgreSQL connection pooling across 40+ modules to parallelize market data fetches
