@@ -7,7 +7,7 @@
 
 8 years automating enterprise infrastructure across Azure and GCP. Currently governing an **850 PB** multi-cloud storage estate at Walmart Global Tech, with **$12M+** in realized FinOps savings delivered in H1 FY27.
 
-### Currently @ Walmart Global Tech
+### Infrastructure & Platform Engineer @ Walmart Global Tech
 
 - Architecting a multi-cloud storage KPI & metadata platform spanning **850 PB** (150 PB Azure / 700 PB GCP) across 13K Azure storage accounts and 300K+ GCP buckets
 - Contributed to a production-grade MCP server (FastMCP, FastAPI) exposing tooling for Azure Storage and BigQuery — **own the BigQuery tooling**: query execution and dataset retrieval, with async I/O, retry, and OpenTelemetry tracing
